@@ -1,2 +1,2 @@
 # bats-on-pole.github.io
-Btas-on-Pole web page
+Bats-on-Pole web page
