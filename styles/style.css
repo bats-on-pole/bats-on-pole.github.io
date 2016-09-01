@@ -1,0 +1,63 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+}
+
+#h-bats {
+  font-size: 60px;
+  text-align: center;
+  margin: 20px 0px auto;
+  display: none;
+}
+
+#h-cbr-pole {
+  font-size: 25px;
+  text-align: center;
+  margin: 0px 30px auto;
+  display: none;
+}
+
+#h-escola-pole {
+  font-size: 18px;
+  text-align: center;
+}
+
+#h-inscricoes {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background: black;
+  padding: 2px 0px 5px;
+  margin: 20px 0px auto;
+}
+
+#bats-on-pole-logo {
+  display: block;
+  margin: 0px auto;
+}
+
+.c-div-modalidade {
+	text-align: center;
+}
+
+.c-h-modalidade {
+	font-size: 30px;
+	margin: 10px 0px auto;
+}
+
+.c-text-modalidade {
+	font-size: 18px;
+	margin: 8px 0px auto;
+}
+
+.link-formulario {
+	display: block;
+	color: black;
+	font-size: 17px;
+	margin: 10px auto;
+}
+
+.packs-separator {
+	padding: 2px;
+	background: black;
+}
